@@ -1,6 +1,6 @@
 # Spring boot, Hibernate, MySQL 
 
-A simple Spring boot application u
+A simple Spring boot application 
 
 ## Tools and Technologies used
 
